@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "ひこうき雲 (2022 mix)",
+  "base_artist": "Yumi Arai",
+  "createdAt": "2025-12-30T14:13:22.287511Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ひこうき雲",
+      "artist": "GLIM SPANKY",
+      "has_synced": true,
+      "path": "select/01_ひこうき雲_GLIM_SPANKY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ひこうき雲",
+      "artist": "Matsutoya, Yumi",
+      "has_synced": true,
+      "path": "select/02_ひこうき雲_Matsutoya,_Yumi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ひこうき雲",
+      "artist": "Yumi Arai",
+      "has_synced": true,
+      "path": "select/03_ひこうき雲_Yumi_Arai.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ひこうき雲",
+      "artist": "Humbert Humbert",
+      "has_synced": true,
+      "path": "select/04_ひこうき雲_Humbert_Humbert.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ひこうき雲",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/05_ひこうき雲_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ひこうき雲",
+      "artist": "シアターガールズ",
+      "has_synced": false,
+      "path": "select/06_ひこうき雲_シアターガールズ.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ひこうき雲",
+      "artist": "Yumi Matsutoya",
+      "has_synced": true,
+      "path": "select/07_ひこうき雲_Yumi_Matsutoya.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ひこうき雲",
+      "artist": "Toshl",
+      "has_synced": false,
+      "path": "select/08_ひこうき雲_Toshl.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ひこうき雲",
+      "artist": "Q;indivi Starring Rin Oikawa",
+      "has_synced": false,
+      "path": "select/09_ひこうき雲_Q;indivi_Starring_Rin_Oikawa.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ひこうき雲 - Vapor Trail / Hikouki Gumo",
+      "artist": "Yumi Arai",
+      "has_synced": false,
+      "path": "select/10_ひこうき雲_-_Vapor_Trail___Hikouki_Gumo_Yumi_Arai.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ひこうき雲(シアターガールズver.)",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/11_ひこうき雲(シアターガールズver.)_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ひこうき雲 (シアターガールズver.)",
+      "artist": "AKB48",
+      "has_synced": false,
+      "path": "select/12_ひこうき雲_(シアターガールズver.)_AKB48.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ひこうき雲 (シアターガールズ ver.)",
+      "artist": "シアターガールズ",
+      "has_synced": false,
+      "path": "select/13_ひこうき雲_(シアターガールズ_ver.)_シアターガールズ.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ひこうき雲 (シアターガールズve",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/14_ひこうき雲_(シアターガールズve_AKB48.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ひこうき雲",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_01_ひこうき雲_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ひこうき雲",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_02_ひこうき雲_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ひこうき雲",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_03_ひこうき雲_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ひこうき雲",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_04_ひこうき雲_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ひこうき雲",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_05_ひこうき雲_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "ひこうき雲",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_06_ひこうき雲_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "ひこうき雲",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_07_ひこうき雲_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "ひこうき雲",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_08_ひこうき雲_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "ひこうき雲",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_09_ひこうき雲_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "ひこうき雲",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_10_ひこうき雲_荒井_由実.txt"
+    }
+  ]
+}
